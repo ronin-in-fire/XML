@@ -1,1 +1,20 @@
-
+<root>
+  <Number>1</Number>
+  <Severety>Major</Severety>
+  <Environment>Windows 10 Chrome 109</Environment>
+  <Title>Registration completion page is opened by clicking  [Got a question?] menu section [Product]-&gt;[CFD Trading].</Title>
+  <Steps>
+    <1>Navigate to capital.com</1>
+    <2>Click button [Burger menu]</2>
+    <3>Click menu section [Products]</3>
+    <4>Click menu item [CFD trading]</4>
+    <5>Click button [Got a question?] in block &apos;With Capital.com help is always at hand.&apos;</5>
+  </Steps>
+  <Expected_Result>Page &apos;Support center&apos; is opened.</Expected_Result>
+  <Actual_Result>Registration completion page is opened / The trading platform page is opened (depends on role).</Actual_Result>
+  <Link>https://drive.google.com/file/d/1RVmcwn_Fe7UtN79Aj8L1og7vW2RNR3Jf/view?usp=share_link</Link>
+  <License>All</License>
+  <RoleRole_(unregistered,_unauthorized,_authorized,_All)>All</RoleRole_(unregistered,_unauthorized,_authorized,_All)>
+  <Bug_started>Name</Bug_started>
+  <Bug_reproduced>Names</Bug_reproduced>
+</root>
